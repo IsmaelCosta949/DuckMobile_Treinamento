@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "443171133144",
+    "project_id": "praticamobile2-e9325",
+    "storage_bucket": "praticamobile2-e9325.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443171133144:android:be91508df65ddecffae9ad",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6ahAe86O6VMD1wauTc5WSwin7l3gpny4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
